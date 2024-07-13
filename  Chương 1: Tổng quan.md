@@ -20,9 +20,16 @@ Các đặc điểm của thuật toán:
 Cấu trúc dữ liệu phải đảm bảo các mục đích thiết kế sau:
 
 - Giảm thiểu chiếm dụng không gian để tiết kiệm bộ nhớ máy tính
+- Thực hiện các thao tác dữ liệu nhanh nhất có thể, bao gồm truy cập, thêm, xoá, cập nhật dữ liệu,...
+- Cung cấp cách trình bày dữ liệu ngắn gọn và thông tin logic để cho phép thực hiện thuật toán hiệu quả
 
 ### 1.3 Mối quan hệ giữa thuật toán và cấu trúc dữ liệu
 
-## 2. Ví dụ về thuật toán
+Cấu trúc dữ liệu và thuật toán có mối liên quan chặt chẽ với nhau:
 
-## 3. Tổng kết
+- Cấu trúc dữ liệu là nền tảng của thuật toán, cung cấp khả năng lưu trữ dữ liệu có cấu trúc và các phương pháp thao tác dữ liệu cho các thuật toán
+- Thuật toán là giai đoạn mà cấu trúc dữ liệu phát huy tác dụng, riêng cấu trúc dữ liệu chỉ lưu trữ thông tin dữ liệu, thông qua việc áp dụng các thuật toán mà các vấn đề cụ thể có thể được giải quyết
+- Các thuật toán thường có thể được triển khai dựa trên các cấu trúc dữ liệu khác nhau, nhưng hiệu quả thực thi của chúng có thể khác nhau rất nhiều, chọn cấu trúc dữ liệu phù hợp là chìa khoá
+  <img src="./assets/c1-image-1.png" />
+
+## 2. Ví dụ về thuật toán
